@@ -1,0 +1,12 @@
+/*
+  Insert on Header & Footer Style
+ */
+.iohf-textarea {
+  width: 600px;
+  height: 300px;
+}
+
+.iohf-helpinfo {
+  font-size: 11px;
+  margin: 5px 0 20px;
+}
