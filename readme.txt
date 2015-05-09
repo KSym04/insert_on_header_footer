@@ -2,8 +2,8 @@
 Contributors: DopeThemes
 Tags: html
 Requires at least: 3.3.2
-Tested up to: 3.3.2
-Stable tag: 3.3.2
+Tested up to: 3.4.1
+Stable tag: 3.4.1
 
 This plugin allows you to add extra script on header and footer.
 
@@ -24,5 +24,9 @@ A: Basically this simply allows you to add code inside head and footer, which is
 
 
 == Changelog ==
+= 1.0.1 =
+* Added language file
+* Minor improvements
+
 = 1.0.0 =
 * First version
