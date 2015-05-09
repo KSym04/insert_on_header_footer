@@ -1,6 +1,8 @@
 <?php
 /**
  * Insert on Header & Footer Admin Panel
+ *
+ * @since 1.0.0
  */
 ?>
 <h2 class="render-title"><?php _e( 'Insert on Header & Footer', 'insert_on_header_footer' ); ?></h2>
@@ -27,7 +29,7 @@
                 </div>
             </div>
             <div class="form-actions">
-                <input type="submit" value="Save" class="btn btn-submit">
+                <input type="submit" value="<?php _e( 'Save', 'insert_on_header_footer' ); ?>" class="btn btn-submit">
             </div>
         </div><!-- form-horizontal -->
     </fieldset>
