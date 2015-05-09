@@ -5,11 +5,17 @@ Requires at least: 3.3.2
 Tested up to: 3.4.1
 Stable tag: 3.4.1
 
-This plugin allows you to add extra script on header and footer.
-
 
 == Description ==
-This plugin allows you to add extra script on header and footer.
+Insert on Header & Footer allows you to add extra script on your site header and footer.
+
+If you want to learn more about this plugin then we would suggest visiting [DopeThemes / Insert on Header & Footer](http://www.dopethemes.com/plugins/insert-on-header-footer/ "DopeThemes / Insert on Header & Footer").
+
+If you like using this plugin, then please leave us a good rating.
+
+Lastly, if you like this plugin then follow DopeThemes on:
+[Twitter](http://twitter.com/wearedopethemes "Twitter")
+[Facebook](http://facebook.com/wearedopethemes "Facebook")
 
 
 == Installation ==
