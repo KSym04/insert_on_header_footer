@@ -3,10 +3,10 @@
 Plugin Name: Insert on Header & Footer
 Plugin URI: http://www.dopethemes.com/plugins/insert-on-header-footer/
 Description: This plugin allows you to add extra script on header and footer.
-Version: 1.0.0
+Version: 1.0.1
 Author: DopeThemes
 Author URI: http://www.dopethemes.com/
-Plugin update URI: http://www.dopethemes.com/files/osclass/plugins/insert_on_header_footer/update.php
+Plugin update URI: insert-on-header-footer
 Short Name: insert_on_header_footer
 Support URI: http://www.dopethemes.com/contact-us/
 */
@@ -75,12 +75,12 @@ osc_add_hook( 'init_admin', 'insert_on_header_footer_admin_style' );
  * Initialize
  */
 function insert_on_header_footer_init_head() {
-  _e( osc_get_preference( 'header_code', 'plugin-insert_on_header_footer' ), 'insert_on_header_footer' );
+  echo stripslashes( osc_get_preference( 'header_code', 'plugin-insert_on_header_footer' ) );
 }
 osc_add_hook( 'header', 'insert_on_header_footer_init_head' );
 
 function insert_on_header_footer_init_foot() {
-  _e( osc_get_preference( 'footer_code', 'plugin-insert_on_header_footer' ), 'insert_on_header_footer' );
+  echo stripslashes( osc_get_preference( 'footer_code', 'plugin-insert_on_header_footer' ) );
 }
 osc_add_hook( 'footer', 'insert_on_header_footer_init_foot' );
 
