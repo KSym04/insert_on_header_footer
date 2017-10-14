@@ -24,13 +24,14 @@
                     <?php _e( 'Footer Code', 'insert_on_header_footer' ); ?>
                 </div>
                 <div class="form-controls">
-                    <textarea name="footer_code" class="iohf-textarea"><?php echo osc_get_preference( 'footer_code', 'plugin-insert_on_header_footer' ); ?></textarea>
+                    <textarea name="footer_code" class="iohf-textarea">
+                        <?php echo osc_get_preference( 'footer_code', 'plugin-insert_on_header_footer' ); ?></textarea>
                     <p class="iohf-helpinfo"><?php _e( 'This code/script will appear before closing body tag', 'insert_on_header_footer' ); ?></p>
                 </div>
             </div>
             <div class="form-actions">
-                <input type="submit" value="<?php _e( 'Save', 'insert_on_header_footer' ); ?>" class="btn btn-submit">
+                <input type="submit" value="<?php _e( 'Save', 'insert_on_header_footer' ); ?>" class="btn btn-submit" />
             </div>
-        </div><!-- form-horizontal -->
+        </div>
     </fieldset>
 </form>
