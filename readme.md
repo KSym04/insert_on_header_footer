@@ -13,13 +13,7 @@ This osclass plugin allows you to add an extra styling code or scripts on your s
 
 If you want to learn more about this plugin then we advise to visit [DopeThemes / Insert on Header & Footer](https://www.dopethemes.com/plugins/insert-on-header-footer/ "DopeThemes / Insert on Header & Footer").
 
-If you like using this plugin, then please leave us a good rating on Osclass Market.
-
-Lastly, if you like this plugin please follow our official pages on the following:
-[Twitter](https://twitter.com/wearedopethemes "Twitter")
-[Facebook](https://www.facebook.com/wearedopethemes "Facebook")
-
-Language Support:
+Language Support:  
 English
 
 ## Installation
@@ -28,11 +22,11 @@ English
 3. That's it and have fun
 
 ## Frequently Asked Questions
-1. Q: What's the use of this plugin?
-A: Basically, this simply allows you to add code inside head and footer, which is helpful for some instances for an example you need to add some tracking or verification code like Bing verification code, Google Webmaster verification code, Google Analytics or many more.
+1. Q: What's the use of this plugin?  
+A: Basically, this simply allows you to add code inside head and footer, which is helpful for some instances for an example you need to add some tracking or verification code like Bing verification code, Google Webmaster verification code, Google Analytics or many more.  
 
-2. Q: What's your recommendation when adding an extra code?
-A: Extra code such as CSS styling or meta tags should be insert inside the header and any extra JavaScript code should be insert inside the footer.
+2. Q: What's your recommendation when adding an extra code?  
+A: Extra code such as CSS styling or meta tags should be insert inside the header and any extra JavaScript code should be insert inside the footer.  
 
 ## Changelog
 
