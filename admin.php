@@ -3,6 +3,10 @@
  * Insert on Header & Footer Admin Panel
  * @since 1.0.0
  */
+
+if ( ! defined( 'ABS_PATH' ) ) {
+	exit;
+}
 ?>
 <h2 class="render-title">
 	<?php _e( 'Insert on Header & Footer', 'insert_on_header_footer' ); ?>
