@@ -1,11 +1,11 @@
-# Insert on Header & Footer: Osclass Plugin
-[![Build Status](https://travis-ci.org/KSym04/insert_on_header_footer.svg?branch=master)](https://travis-ci.org/KSym04/insert_on_header_footer)
-**Contributors:** KSym04
-**Requires at least:** 3.7.4
-**Tested up to:** 3.7.4
-**Stable tag:** 1.0.2
-**License:** GPLv3
-**License URI:** https://www.gnu.org/licenses/gpl-3.0.html
+# Insert on Header & Footer: Osclass Plugin  
+[![Build Status](https://travis-ci.org/KSym04/insert_on_header_footer.svg?branch=master)](https://travis-ci.org/KSym04/insert_on_header_footer)   
+**Contributors:** KSym04  
+**Requires at least:** 3.3.2  
+**Tested up to:** 3.7.4  
+**Stable tag:** 1.0.2  
+**License:** GPLv3  
+**License URI:** https://www.gnu.org/licenses/gpl-3.0.html  
 
 ## Description
 
