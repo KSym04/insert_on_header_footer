@@ -8,7 +8,6 @@
 	<?php _e( 'Insert on Header & Footer', 'insert_on_header_footer' ); ?>
 </h2>
 
-
 <form id="insert_on_header_footer-form" action="<?php echo osc_admin_render_plugin_url( 'insert_on_header_footer/admin.php' ); ?>" method="post">
 
     <fieldset>
