@@ -7,11 +7,11 @@
 **Tested up to:** 3.7.4\
 **Stable tag:** 1.0.2\
 **License:** GPLv3\
-**License URI:** [https://www.gnu.org/licenses/gpl-3.0.html](https://www.dopethemes.com/plugins/insert-on-header-footer/).
+**License URI:** https://www.gnu.org/licenses/gpl-3.0.html
 
 ## Description ##
 
-This osclass plugin allows you to add an extra styling code or scripts on your site header and footer, if you want to learn more about this plugin, please visit [DopeThemes / Insert on Header & Footer](https://www.dopethemes.com/plugins/insert-on-header-footer/).
+This osclass plugin allows you to add an extra styling code or scripts on your site header and footer, if you want to learn more about this plugin, please visit [DopeThemes / Insert on Header & Footer](https://www.dopethemes.com/plugins/insert-on-header-footer/?utm_source=oc-repo&utm_medium=link&utm_campaign=readme).
 
 ## Installation ##
 
@@ -33,16 +33,17 @@ This osclass plugin allows you to add an extra styling code or scripts on your s
 
 ## Changelog ##
 
-### 1.0.2 ###
+### 1.0.2 - 2018-04-09 ###
 
 * Improved code editor with syntax highlighting and autocomplete tags
 * Added license file
+* Code styling improvements
 
-### 1.0.1 ###
+### 1.0.1 - 2015-05-10 ###
 
 * Added language file
 * Minor improvements
 
-### 1.0.0 ###
+### 1.0.0 - 2014-06-11 ###
 
 * First version

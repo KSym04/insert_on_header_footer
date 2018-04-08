@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: Insert on Header & Footer
-Plugin URI: https://www.dopethemes.com/downloads/insert-header-footer/
+Plugin URI: https://www.dopethemes.com/downloads/insert-header-footer/?utm_source=oc-plugins&utm_campaign=plugin-uri&utm_medium=oc-dash
 Description: This osclass plugin allows you to add an extra styling code or scripts on your site header and footer.
 Version: 1.0.2
 Author: DopeThemes
-Author URI: https://www.dopethemes.com/
+Author URI: https://www.dopethemes.com/?utm_source=oc-plugins&utm_campaign=plugin-uri&utm_medium=oc-dash
 Plugin update URI: insert-on-header-footer
 Short Name: insert_on_header_footer
-Support URI: https://www.dopethemes.com/contact/
+Support URI: https://www.dopethemes.com/contact/?utm_source=oc-plugins&utm_campaign=plugin-uri&utm_medium=oc-dash
 */
 
 if ( ! defined( 'ABS_PATH' ) ) {
