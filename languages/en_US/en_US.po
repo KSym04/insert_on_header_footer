@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Insert on Header & Footer\n"
-"POT-Creation-Date: 2018-04-09 01:48+0800\n"
-"PO-Revision-Date: 2018-04-09 01:49+0800\n"
+"POT-Creation-Date: 2018-04-09 02:44+0800\n"
+"PO-Revision-Date: 2018-04-09 02:44+0800\n"
 "Last-Translator: \n"
 "Language-Team: DopeThemes <hello@dopethemes.com>\n"
 "Language: en_US\n"
@@ -26,19 +26,19 @@ msgstr ""
 msgid "Header Code"
 msgstr ""
 
-#: admin.php:22
-msgid "Note: The above code will be inserted inside &lt;head&gt;` tag."
+#: admin.php:23
+msgid "Note: The above code will be inserted inside `&lt;head&gt;` tag."
 msgstr ""
 
-#: admin.php:27
+#: admin.php:28
 msgid "Footer Code"
 msgstr ""
 
-#: admin.php:31
+#: admin.php:33
 msgid "Note: The above code will be inserted before closing `&lt;/body&gt;` tag."
 msgstr ""
 
-#: admin.php:35
+#: admin.php:37
 msgid "Save"
 msgstr ""
 

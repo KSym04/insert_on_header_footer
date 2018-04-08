@@ -9,7 +9,7 @@
 }
 
 .iohf-code-editor .ace_editor {
-	height: 335px;
+	height: 350px;
 }
 
 .iohf-code-editor .ace_info {
@@ -17,7 +17,7 @@
 }
 
 .iohf-helpinfo {
-	margin: 5px 0 20px;
+	margin: 10px 0 20px;
 	font-size: 12px;
 	font-weight: bold;
 }

@@ -18,8 +18,9 @@
                     <h3><?php _e( 'Header Code', 'insert_on_header_footer' ); ?></h3>
                 </div>
                 <div class="form-controls iohf-code-editor">
-                    <textarea id="header-code" name="header_code" class="iohf-textarea"><?php echo osc_get_preference( 'header_code', 'plugin-insert_on_header_footer' ); ?></textarea>
-                    <p class="iohf-helpinfo"><?php _e( 'Note: The above code will be inserted inside &lt;head&gt;` tag.', 'insert_on_header_footer' ); ?></p>
+					<div id="iohf-textarea-header"></div>
+                    <textarea id="header-code" name="header_code"><?php echo osc_get_preference( 'header_code', 'plugin-insert_on_header_footer' ); ?></textarea>
+                    <p class="iohf-helpinfo"><?php _e( 'Note: The above code will be inserted inside `&lt;head&gt;` tag.', 'insert_on_header_footer' ); ?></p>
                 </div>
             </div>
             <div class="form-row">
@@ -27,7 +28,8 @@
                     <h3><?php _e( 'Footer Code', 'insert_on_header_footer' ); ?></h3>
                 </div>
                 <div class="form-controls iohf-code-editor">
-                    <textarea id="footer-code" name="footer_code" class="iohf-textarea"><?php echo osc_get_preference( 'footer_code', 'plugin-insert_on_header_footer' ); ?></textarea>
+					<div id="iohf-textarea-footer"></div>
+                    <textarea id="footer-code" name="footer_code"><?php echo osc_get_preference( 'footer_code', 'plugin-insert_on_header_footer' ); ?></textarea>
                     <p class="iohf-helpinfo"><?php _e( 'Note: The above code will be inserted before closing `&lt;/body&gt;` tag.', 'insert_on_header_footer' ); ?></p>
                 </div>
             </div>
