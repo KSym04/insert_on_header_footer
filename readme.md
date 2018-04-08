@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/KSym04/insert_on_header_footer.svg?branch=master)](https://travis-ci.org/KSym04/insert_on_header_footer)
 
-**Contributors:** KSym04
+**Contributors:** KSym04<br>
 **Requires at least:** 3.3.2
 **Tested up to:** 3.7.4
 **Stable tag:** 1.0.2
