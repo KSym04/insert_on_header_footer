@@ -9,12 +9,7 @@
 
 ## Description ##
 
-This osclass plugin allows you to add an extra styling code or scripts on your site header and footer.
-
-If you want to learn more about this plugin, please visit [DopeThemes / Insert on Header & Footer](https://www.dopethemes.com/plugins/insert-on-header-footer/ "DopeThemes / Insert on Header & Footer").
-
-**Language Support:**   
-* English
+This osclass plugin allows you to add an extra styling code or scripts on your site header and footer, if you want to learn more about this plugin, please visit [DopeThemes / Insert on Header & Footer](https://www.dopethemes.com/plugins/insert-on-header-footer/ "DopeThemes / Insert on Header & Footer").
 
 ## Installation ##
 1. Upload `insert_on_header_footer/` to the `/oc-content/plugins/` directory
@@ -27,6 +22,10 @@ If you want to learn more about this plugin, please visit [DopeThemes / Insert o
 
 **Q: What's your recommendation when adding an extra code?**  
 **_A:_** Extra code such as CSS styling or meta tags should be insert inside the header and any extra JavaScript code should be insert inside the footer.  
+
+## Language Support ##  
+
+* English
 
 ## Changelog ##
 
