@@ -3,11 +3,12 @@
  */
 
 .iohf-textarea {
-  width: 600px;
-  height: 300px;
+	width: 600px;
+	height: 300px;
 }
 
 .iohf-helpinfo {
-  font-size: 11px;
-  margin: 5px 0 20px;
+	margin: 5px 0 20px;
+	font-size: 12px;
+	font-weight: bold;
 }
