@@ -122,7 +122,7 @@ function insert_on_header_footer_admin_init_style_script() {
 	);
 
 	// add code editor libraries
-	osc_register_script( 'ace', osc_plugin_url( __FILE__ ) . 'assets/js/ace-builds/src-min-noconflict/ace.js' );
+	osc_register_script( 'ace', osc_plugin_url( __FILE__ ) . 'assets/js/ace/ace.js' );
 	osc_enqueue_script( 'ace' );
 }
 osc_add_hook( 'init_admin', 'insert_on_header_footer_admin_init_style_script' );
