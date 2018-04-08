@@ -108,20 +108,38 @@ function insert_on_header_footer_admin_menu() {
 osc_add_hook( 'admin_menu_init', 'insert_on_header_footer_admin_menu' );
 
 /**
- * insert_on_header_footer_admin_style
+ * insert_on_header_footer_admin_init_style_script
  *
  * Load styling inside Osclass admin backend
  *
  * @since	1.0.0
  * @return  void
  */
-function insert_on_header_footer_admin_style() {
+function insert_on_header_footer_admin_init_style_script() {
 	osc_enqueue_style(
 		'insert_on_header_footer-style',
 		osc_plugin_url( __FILE__ ) . 'assets/css/style.css'
 	);
+
+	// add code editor libraries
+	osc_register_script( 'ace', osc_plugin_url( __FILE__ ) . 'assets/js/ace-builds/src-min-noconflict/ace.js' );
+	osc_enqueue_script( 'ace' );
 }
-osc_add_hook( 'init_admin', 'insert_on_header_footer_admin_style' );
+osc_add_hook( 'init_admin', 'insert_on_header_footer_admin_init_style_script' );
+
+/**
+ * insert_on_header_footer_admin_footer_script
+ *
+ * Load insert header footer JS
+ *
+ * @since	1.0.0
+ * @return  void
+ */
+function insert_on_header_footer_admin_footer_script() {
+	// I hate to do this but it seems there is no proper hooks to load scripts on admin footer.
+	echo '<script type="text/javascript" src="' . osc_plugin_url( __FILE__ ) . 'assets/js/insert-header-footer.js' . '"></script>';
+}
+osc_add_hook( 'admin_footer', 'insert_on_header_footer_admin_footer_script' );
 
 /**
  * insert_on_header_footer_init_head

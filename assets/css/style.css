@@ -2,9 +2,18 @@
   Insert on Header & Footer Style
  */
 
-.iohf-textarea {
-	width: 600px;
-	height: 300px;
+.iohf-code-editor {
+	position: relative;
+	width: 700px;
+	height: 400px;
+}
+
+.iohf-code-editor .ace_editor {
+	height: 335px;
+}
+
+.iohf-code-editor .ace_info {
+    background-image: none !important;
 }
 
 .iohf-helpinfo {
