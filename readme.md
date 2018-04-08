@@ -2,11 +2,11 @@
 
 [![Build Status](https://travis-ci.org/KSym04/insert_on_header_footer.svg?branch=master)](https://travis-ci.org/KSym04/insert_on_header_footer)
 
-**Contributors:** KSym04<br>
-**Requires at least:** 3.3.2
-**Tested up to:** 3.7.4
-**Stable tag:** 1.0.2
-**License:** GPLv3
+**Contributors:** KSym04\
+**Requires at least:** 3.3.2\
+**Tested up to:** 3.7.4\
+**Stable tag:** 1.0.2\
+**License:** GPLv3\
 **License URI:** [https://www.gnu.org/licenses/gpl-3.0.html](https://www.dopethemes.com/plugins/insert-on-header-footer/).
 
 ## Description ##
@@ -24,8 +24,7 @@ This osclass plugin allows you to add an extra styling code or scripts on your s
 **Q: What's the use of this plugin?**
 **_A:_** Basically, this simply allows you to add code inside website head and footer, which is helpful in some instances for an example you need to add some tracking or verification code like Bing verification code, Google Webmaster verification code, Google Analytics or many more.
 
-**Q: What's your recommendation when adding an extra code?**
-**_A:_** Extra code such as CSS styling or meta tags should be inserted inside the header and any extra JavaScript code should be inserted inside the footer.
+**Q: What's your recommendation when adding an extra code?****_A:_** Extra code such as CSS styling or meta tags should be inserted inside the header and any extra JavaScript code should be inserted inside the footer.
 
 ## Language Support ##
 
