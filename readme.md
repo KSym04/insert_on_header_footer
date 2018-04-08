@@ -16,7 +16,7 @@ This osclass plugin allows you to add an extra styling code or scripts on your s
 ## Installation ##
 
 1. Upload `insert_on_header_footer/` to the `/oc-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu on Osclass Administator Dashboard
+2. Activate the plugin through the 'Plugins' menu on Osclass Administrator Dashboard
 3. That's it and have fun
 
 ## Frequently Asked Questions ##
