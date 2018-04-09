@@ -29,7 +29,7 @@ This osclass plugin allows you to add an extra styling code or scripts on your s
 
 ## Language Support ##
 
-* English
+* English (en_US)
 
 ## Changelog ##
 
