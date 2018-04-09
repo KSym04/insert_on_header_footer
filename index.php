@@ -71,7 +71,7 @@ function insert_on_header_footer_actions() {
 						'STRING' );
 
 	// return message
-    osc_add_flash_ok_message( __( 'Settings saved successfully', 'insert_on_header_footer' ), 'insert_on_header_footer' );
+    osc_add_flash_ok_message( __( 'Settings saved successfully', 'insert_on_header_footer' ), 'admin' );
     osc_redirect_to( osc_admin_render_plugin_url( 'insert_on_header_footer/admin.php' ) );
   }
 }
