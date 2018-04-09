@@ -71,7 +71,7 @@ function insert_on_header_footer_actions() {
 						'STRING' );
 
 	// return message
-    osc_add_flash_ok_message( __( 'Settings saved successfully', 'insert_on_header_footer' ), 'admin' );
+    osc_add_flash_ok_message( __( 'Settings saved successfully', 'insert_on_header_footer' ), 'insert_on_header_footer' );
     osc_redirect_to( osc_admin_render_plugin_url( 'insert_on_header_footer/admin.php' ) );
   }
 }
@@ -150,7 +150,6 @@ osc_add_hook( 'admin_footer', 'insert_on_header_footer_admin_footer_script' );
  * @return  string
  */
 function insert_on_header_footer_init_head() {
-
 	$header_code = osc_get_preference( 'header_code', 'plugin-insert_on_header_footer' );
 	if( $header_code) {
 		echo '<!-- HEADER CODE BEGIN -->' . "\n";
@@ -169,7 +168,6 @@ osc_add_hook( 'header', 'insert_on_header_footer_init_head' );
  * @return	string
  */
 function insert_on_header_footer_init_foot() {
-
 	$footer_code = osc_get_preference( 'footer_code', 'plugin-insert_on_header_footer' );
 	if( $footer_code ) {
 		echo '<!-- FOOTER CODE BEGIN -->' . "\n";
