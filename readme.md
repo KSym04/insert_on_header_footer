@@ -33,17 +33,17 @@ This osclass plugin allows you to add an extra styling code or scripts on your s
 
 ## Changelog ##
 
-### 1.0.2 - 2018-04-09 ###
+### 1.0.2 - Apr 9, 2018 ###
 
 * Improved code editor with syntax highlighting and autocomplete tags
 * Added license file
 * Code styling improvements
 
-### 1.0.1 - 2015-05-10 ###
+### 1.0.1 - May 10, 2015 ###
 
 * Added language file
 * Minor improvements
 
-### 1.0.0 - 2014-06-11 ###
+### 1.0.0 - Jun 11, 2014 ###
 
 * First version
