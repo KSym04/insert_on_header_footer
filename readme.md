@@ -11,7 +11,11 @@
 
 ## Description ##
 
-This osclass plugin allows you to add an extra styling code or scripts on your site header and footer, if you want to learn more about this plugin, please visit [DopeThemes / Insert on Header & Footer](https://www.dopethemes.com/downloads/insert-header-footer/?utm_source=oc-repo&utm_medium=link&utm_campaign=readme).
+This osclass plugin allows you to add an extra styling code or scripts on your site header and footer, if you want to learn more about this plugin, please visit [DopeThemes / Insert on Header & Footer](https://www.dopethemes.com/downloads/insert-header-footer/?utm_source=oc-repo&utm_medium=link&utm_campaign=readme).  
+
+You may also send your donation for helping and supporting us to maintain free plugin releases:  
+BTC: 1GJpyaLZjQ8JKaKih3UCwpuJAV15fTy9Rq  
+XRP: rUd5NTLuyFGeS9HyyvHhnB4sWC5f9vWWzj
 
 ## Installation ##
 
